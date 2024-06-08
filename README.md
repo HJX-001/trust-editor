@@ -1,2 +1,2 @@
 # trust-editor
-simple code editor, written in rust
+simple code editor, written in rust (WIP)
